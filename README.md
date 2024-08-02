@@ -13,7 +13,7 @@
 - Business Understanding
 	- The _Business Understanding_ phase focuses on understanding the objectives and requirements of the project.
 - Data Understanding
-	- Next is the _Data Understandin_g phase. Adding to the foundation of _Business Understanding_, it drives the focus to identify, collect, and analyze the data sets that can help you accomplish the project goals.
+	- Next is the _Data Understanding_ phase. Adding to the foundation of _Business Understanding_, it drives the focus to identify, collect, and analyze the data sets that can help you accomplish the project goals.
 - Data Preparation
 	- This phase, which is often referred to as “data munging”, prepares the final data set(s) for modeling.
 - Modeling
