@@ -4,8 +4,14 @@
 
 # Introduction
 - Project focused on applying the Data Science process
-- CRISP-DM process with all steps detailed per file
+- CRISP-DM process
 - Dataset used is the famous Titanic
 
 # Process
-- Defining the problem to solve
+## Application of the CRIPS-DM Model to resolve the problem raised.
+- Business Understanding
+- Data Understanding
+- Data Preparation
+- Modeling
+- Results assessment
+- Model deployment
