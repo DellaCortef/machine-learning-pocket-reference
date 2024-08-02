@@ -9,7 +9,7 @@
 - Dataset used is the famous Titanic
 
 # Process
-## Application of the CRIPS-DM Model to resolve the problem raised
+### Application of the CRIPS-DM Model to resolve the problem raised
 - Business Understanding
 	- The _Business Understanding_ phase focuses on understanding the objectives and requirements of the project.
 - Data Understanding
