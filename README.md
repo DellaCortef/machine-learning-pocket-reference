@@ -30,9 +30,9 @@ ___  **Introduction**
 
 
 Meta Platform Dags
-│   README.md
-│   .gitignore -> Definição de pastas e arquivos que deverão ser ignorados no git
-│   .gitlab-cy.yml -> Configuração para processo de CI/CD
+│   README.md\n
+│   .gitignore -> Definição de pastas e arquivos que deverão ser ignorados no git\n
+│   .gitlab-cy.yml -> Configuração para processo de CI/CD\n
 │   .git -> Pasta configurações do git
 │   .serverless.ym -> Definições a serem utilizadas pelo framework para gerar o pacote e realizar deploy
 │   .vscode -> Pasta com arquivos para execução local do processo de sincronização das variáveis e conecxões
