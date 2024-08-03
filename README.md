@@ -11,7 +11,10 @@
 # Main Objective
 The main objective would be to apply the concepts and knowledge of Data Science.
 
-
+# Complementary Objectives
+- understand how the CRISP-DM model can help to obtain better results;
+- overcome obstacles and challenges with lib updates, implementation and new approaches, among others;
+- consolidate the knowledge obtained;
 
 # Process
 ### Application of the CRIPS-DM Model to resolve the problem raised
