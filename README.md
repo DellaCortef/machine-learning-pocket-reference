@@ -1,8 +1,3 @@
-
-🚧 Under Active Development 🚧
-
----
-
 # Introduction
 - Project focused on applying the Data Science process
 - CRISP-DM process
